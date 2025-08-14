@@ -11,7 +11,7 @@ global.prems = []
 
 global.namebot = '🌦 MARY WA-BOT 🍁'
 global.packname = '🫟 𝖬𝖨𝖢𝖧𝖨 𝖡𝖮𝖳 🎋'
-global.author = '» 𝖬𝖺𝖽𝖾 𝗐𝗂𝗍𝗁 𝖻𝗒 𝗔𝗱𝗼'
+global.author = '» 𝖬𝖺𝖽𝖾 𝗐𝗂𝗍𝗁 𝖻𝗒 Vic'
 global.moneda = '𝗠𝗮𝗻𝗴𝗼𝘀 🦁'
 
 global.libreria = 'Baileys'
